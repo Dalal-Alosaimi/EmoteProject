@@ -13,8 +13,3 @@ Emote is an AI-based system designed to analyze crowd emotions in real-time usin
 - **OpenCV** for facial expression detection.
 - **Librosa** for audio analysis.
 - **TensorFlow/Keras** for machine learning models.
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dalal-Alosaimi/EmoteProject.git
